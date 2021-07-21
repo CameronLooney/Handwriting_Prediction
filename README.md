@@ -12,5 +12,8 @@ This is my simple project which is based on my CNN model to predict handwritten 
  Here I attempted to move into the deployment of my model, As this was the main focus of my project I plan to experiment with different deployments as I look to expand my knowledge further and broaden my skill set. 
  My first deployment is a Tkinter GUI application which accepts photos uploaded from your device and predicts what the letter is, after prediction is complete, the models prediction along with the image are stored in a sqlite database.
  
+ # Stage 4 
+ The second deployment allows the user to write out letters in the GUI and have the model predict them, there is also the ability to save the image. From here I'd like to combine both deployments into one multi window GUI, where the functionality from both can be offered. I'd also like to try introduce another model which can perhaps predict words rather than just letters. If time allows I'd also like to branch into different pythonic web frameworks like flask to get some experience in the basics
+ 
  # Notes
  The main task was to bring data through the data science process and into deployment, as such things are a little rough around the edges but I will hopefully be able to improve all aspects and implement more features and deployments.
